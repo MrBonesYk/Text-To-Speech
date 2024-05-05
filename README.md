@@ -1,6 +1,3 @@
-# TTS
-Text To Speech made in C#
-
 Text To Speech made in C# with the following features:
 - Alerts
 - Ability to save the created audio.
