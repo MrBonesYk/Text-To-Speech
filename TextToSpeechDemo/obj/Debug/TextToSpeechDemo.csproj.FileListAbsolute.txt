@@ -1,0 +1,52 @@
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csprojAssemblyReference.cache
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\pLoTo\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\Mr.Bones\Downloads\codeinpc.comTextToSpeechDemoNew\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+G:\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form_Alert.resources
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+D:\Visual Studio Proyectos\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form_Alert.resources
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\Oddy\Documents\Visual Projectos\Visual\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
