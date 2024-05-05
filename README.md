@@ -8,7 +8,7 @@ Text To Speech made in C# with the following features:
 - Summarize audio.
 - Clear text box
 
-Original code by: Original code by: C# Ui Academy
+Original code by: C# Ui Academy
 https://www.youtube.com/watch?v=aGtKyZ4AFcw
 
 Alerts, file saving, button to clear the text box, and voice selection added by MrBones (Me).
